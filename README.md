@@ -2,16 +2,18 @@
 Classic guess a random number game. Walkthrough provided by [Chapter 2](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html) of the Rust documentation book.
 
 ### Getting started
-1. Clone this repository
+1. Make sure you have [Rust](https://rustup.rs/) installed.
+
+2. Clone this repository
 ```
 https://github.com/tannerdolby/rust-guessing-game.git
 ```
-2. Open command line or terminal and run:
+3. Open command line or terminal and run:
 ```
 cargo check
 ```
 - This command quickly checks your code to make sure it compiles but doesn’t produce an executable.
-3. Run and play
+4. Run and play
 ```
 cargo run
 ```
